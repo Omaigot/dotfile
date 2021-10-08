@@ -21,9 +21,9 @@ colors = colors_json
 wallpaper = looks["wallpaper"].replace("~", os.getenv("HOME"))
 
 mod = "mod4"
-terminal = "kitty"
-browser = "firefox"
-file_manager = "pcmanfm"
+terminal = "st"
+browser = "qutebrower"
+file_manager = "ranger"
 
 keys = [
     # Switch between windows
